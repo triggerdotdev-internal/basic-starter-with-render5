@@ -1,5 +1,5 @@
-## Trigger.dev Basic Starter Template
-
-<a href="https://render.com/deploy?repo=https://github.com/triggerdotdev/basic-starter">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
+IyMgVHJpZ2dlci5kZXYgQmFzaWMgU3RhcnRlciBUZW1wbGF0ZQoKPGEgaHJl
+Zj0iaHR0cHM6Ly9yZW5kZXIuY29tL2RlcGxveT9yZXBvPWh0dHBzOi8vZ2l0
+aHViLmNvbS90cmlnZ2VyZG90ZGV2L2Jhc2ljLXN0YXJ0ZXIiPgogIDxpbWcg
+c3JjPSJodHRwczovL3JlbmRlci5jb20vaW1hZ2VzL2RlcGxveS10by1yZW5k
+ZXItYnV0dG9uLnN2ZyIgYWx0PSJEZXBsb3kgdG8gUmVuZGVyIj4KPC9hPgo=
